@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=raspi-config
+GenericName=raspi-config
+Comment=RaspberryPi Configuration Tool
+Comment[PL_pl]=Konfiguracja RaspberryPi
+Exec=remsu "lxterminal -e raspi-config"
+Icon=preferences-other
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Applications;System
+
