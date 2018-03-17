@@ -1,7 +1,7 @@
 Sparky Raspi-config
 It provides a menu entry to 'raspi-config' tool
 
-Copyright (C) 2017 Paweł Pijanowski
+Copyright (C) 2017-2018 Paweł Pijanowski
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -18,9 +18,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Dependencies:
 -------------
+gksu
 lxterminal
 raspi-config
-sparky-remsu
 
 Install:
 -------------
